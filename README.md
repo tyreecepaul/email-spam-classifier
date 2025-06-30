@@ -1,4 +1,4 @@
-# email-spam-classifier
+# sms-spam-classifier
 Implementing a ML model to detect SMS spam messages using NLP
 
 ![SMS Final Screenshot](assets/spam-email.png)
