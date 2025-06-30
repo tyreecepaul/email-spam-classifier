@@ -53,3 +53,6 @@ A set of classifiersd are trained using Scikit-learn. Each model is evaluated ba
 ## Deployment + Final Result
 ![SMS Spam Message](assets/spam-email.png)
 ![SMS Ham Message](assets/ham-email.png)
+
+## Credit
+Youtube Tutorial: https://www.youtube.com/watch?v=YncZ0WwxyzU&t=4248s
