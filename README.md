@@ -6,10 +6,15 @@ Implementing a ML model to detect SMS spam messages using NLP
 ## Project Structure
 sms-spam-detection/
 |
+
 ├── sms-spam-detection.ipynb
+
 ├── app.py
+
 ├── model.pkl
+
 ├── vectorizer.pkl
+
 └── README.md
 
 ---
