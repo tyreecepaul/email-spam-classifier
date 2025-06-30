@@ -1,0 +1,1 @@
+.venv/ .nltk_data/ .pytest_cache/ .mypy_cache/ .coverage .coverage.* .DS_Store *.egg-info/ dist/ build/ __pycache__/ *.pyc *.pyo *.pyd
